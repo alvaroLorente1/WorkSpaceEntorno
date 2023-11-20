@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\lorente.alalv24_tria\Desktop\WORKSPACEEntorno\.metadata\.plugins\org.eclipse.jdt.core
+3251249088.index
+1865797976.index
+3413725848.index
